@@ -413,7 +413,7 @@ Compared with the before run: EV01 is `human` again (0.298, against 0.346 before
 
 Broke count: **8 before → 6 after**. The two evasion breaks fixed; the structural false-positive group (FP02–FP07) and MF03 remain.
 
-**Eval after:** Same as before — criterion 1 still MET (1/10), criteria 2 and 3 still MISSED, 4 and 5 still MET. The threshold move did not affect the personal-writing sample scores.
+**Eval after:** Same as before — criterion 1 still MET (1/10), criteria 2 and 3 still MISSED, 4 and 5 still MET. The threshold move did not affect the personal-writing sample scores. the false-positive problem is solved, but the service now effectively never says ai, and the style stub is the root cause of both failures.
 
 ---
 
